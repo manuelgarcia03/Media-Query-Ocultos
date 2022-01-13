@@ -1,0 +1,21 @@
+@media (max-width: 1024px) {
+    #id4 {
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 768px) {
+    #id3 {
+        visibility: hidden;
+    }
+}
+
+@media (max-width: 480px) {
+    #id2 {
+        visibility: hidden;
+    }
+}
+
+a {
+    display: inline;
+}
